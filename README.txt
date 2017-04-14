@@ -1,3 +1,7 @@
+```sh
+composer require sonnn/delete-slack-message
+```
+
 get apitoken in https://api.slack.com/custom-integrations/legacy-tokens
 channel name is NOT include "#"
 
